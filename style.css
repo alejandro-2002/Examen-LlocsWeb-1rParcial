@@ -1,0 +1,13 @@
+header{
+    text-align: center;
+    font-weight: bold; 
+    text-transform: uppercase;
+}
+
+section{
+
+    background-color: aqua;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px; 
+}
