@@ -8,7 +8,7 @@ const personajes = [{
     nom: 'onepiece'
 }];
 
-window.onload = () => {
+
 
 const contenedor = document.getElementById("personajesContainer")
 
@@ -20,7 +20,6 @@ const contenedor = document.getElementById("personajesContainer")
         personajeDiv.appendchild(nombre)
         contenedor.appendChild(personajeDiv)
     }
-}
 
 
 
